@@ -1,0 +1,17 @@
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net8.0\HotelFinder.DataAccess.deps.json
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net8.0\HotelFinder.DataAccess.runtimeconfig.json
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net8.0\HotelFinder.DataAccess.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net8.0\HotelFinder.DataAccess.pdb
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net8.0\HotelFinder.Entities.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net8.0\HotelFinder.Entities.pdb
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFin.009DD3DC.Up2Date
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\refint\HotelFinder.DataAccess.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.pdb
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\HotelFinder.DataAccess.genruntimeconfig.cache
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net8.0\ref\HotelFinder.DataAccess.dll

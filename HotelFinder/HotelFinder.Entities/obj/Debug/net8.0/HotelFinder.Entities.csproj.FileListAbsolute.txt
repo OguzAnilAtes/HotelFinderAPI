@@ -1,0 +1,11 @@
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\net8.0\HotelFinder.Entities.deps.json
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\net8.0\HotelFinder.Entities.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\net8.0\HotelFinder.Entities.pdb
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\HotelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\HotelFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\HotelFinder.Entities.AssemblyInfo.cs
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\HotelFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\HotelFinder.Entities.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\refint\HotelFinder.Entities.dll
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\HotelFinder.Entities.pdb
+C:\Users\anate\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\net8.0\ref\HotelFinder.Entities.dll
